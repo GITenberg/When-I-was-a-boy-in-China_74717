@@ -1,11 +1,16 @@
 _repo: When-I-was-a-boy-in-China_74717
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74717-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee, Yan Phou
     gutenberg_agent_id: '57614'
     url: http://www.gutenberg.org/2009/agents/57614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74717#When-I-was-a-boy-in-China
 gutenberg_issued: '2024-11-11'
 gutenberg_type: Text
 identifiers:
